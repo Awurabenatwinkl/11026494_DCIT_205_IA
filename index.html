@@ -1,37 +1,54 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/Data/Styles/styles.css">
-    <title>Computer Department</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Computer Department</title>
 </head>
 <body>
-    <header>
-        <nav>
-            <div class="logo">Computer Dept.</div>
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="catalog.html">Catalog</a></li>
-                <li><a href="resources.html">Resources</a></li>
-                <li><a href="events.html">Events</a></li>
-                <li><a href="contacts.html">Contacts</a></li>
-                <li><a href="projects.html">Student Projects</a></li>
-                <li><a href="staff.html">Staff Profiles</a></li>
-                <li><a href="courses.html">Courses</a></li>
-            </ul>
-            <div class="toggle-theme" onclick="toggleTheme()">Toggle Theme</div>
-        </nav>
-    </header>
+  <header>
+    <nav>
+      <div class="logo">Computer Dept</div>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="catalog.html">Catalog</a></li>
+        <li><a href="resources.html">Resources</a></li>
+        <li><a href="events.html">Events</a></li>
+        <li><a href="contacts.html">Contacts</a></li>
+        <li><a href="projects.html">Student Projects</a></li>
+        <li><a href="staff.html">Staff Profiles</a></li>
+        <li><a href="courses.html">Courses</a></li>
+      </ul>
+      <div class="theme-toggle">
+        <span id="light-mode">Light</span>
+        <label class="switch">
+          <input type="checkbox" id="toggle-theme">
+          <span class="slider round"></span>
+        </label>
+        <span id="dark-mode">Dark</span>
+      </div>
+    </nav>
+  </header>
 
-    <section class="landing">
-        <h1>Welcome to the Computer Department</h1>
-        <p>Explore the world of technology with us.</p>
-    </section>
+  <section class="landing">
+    <div class="landing-content">
+      <h1>Welcome to the Computer Department</h1>
+      <p>Explore the world of technology with us.</p>
+    </div>
+  </section>
 
-    <!-- Other content of the home page -->
+  <footer>
+    <div class="social-icons">
+      <a href="#" class="icon"><img src="icons/facebook.png" alt="Facebook"></a>
+      <a href="#" class="icon"><img src="icons/twitter.png" alt="Twitter"></a>
+      <a href="#" class="icon"><img src="icons/linkedin.png" alt="LinkedIn"></a>
+      <a href="#" class="icon"><img src="icons/github.png" alt="GitHub"></a>
+    </div>
+    <p>&copy; 2023 Computer Department. All rights reserved.</p>
+  </footer>
 
-    <script src="/Data/Scripts/script.js"></script>
+  <script src="script.js"></script>
 </body>
 </html>
