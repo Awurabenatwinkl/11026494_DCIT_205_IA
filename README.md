@@ -103,31 +103,41 @@ Resources Page
 
 
 Projects Page
-![Alt text](<11026494_DCIT_205_IA\Screenshots\Projects page.png>)
+![Projects page](https://github.com/Awurabenatwinkl/11026494_DCIT_205_IA/assets/148399305/41edc811-4bcf-4260-91d3-08390ba0c1d6)
+
 
 Facilities Page
-![Alt text](<11026494_DCIT_205_IA\Screenshots\Facilities page1.png>)
-![Alt text](<11026494_DCIT_205_IA\Screenshots\Facilities page2.png>)
-![Alt text](<11026494_DCIT_205_IA\Screenshots\Facilities page4.png>)
+![Facilities page1](https://github.com/Awurabenatwinkl/11026494_DCIT_205_IA/assets/148399305/89aaffb4-9655-4c70-a053-860d818553ee)
+![Facilities page2](https://github.com/Awurabenatwinkl/11026494_DCIT_205_IA/assets/148399305/d2c40d7f-4399-4463-8d89-e2b856a7f668)
+![Facilities page3](https://github.com/Awurabenatwinkl/11026494_DCIT_205_IA/assets/148399305/de70443e-0435-47d1-8176-d27b2a8e91b6)
+
+
+
 
 
 Gallery Page
-![Alt text](<11026494_DCIT_205_IA\Screenshots\Gallery page1.png>)
-![Alt text](<11026494_DCIT_205_IA\Screenshots\Gallery page2.png>)
+
+![Gallery page1](https://github.com/Awurabenatwinkl/11026494_DCIT_205_IA/assets/148399305/50209f27-70e4-4adf-8897-e04b6c656794)
+![Gallery page2](https://github.com/Awurabenatwinkl/11026494_DCIT_205_IA/assets/148399305/880c64f6-c1e8-48e1-8c00-0efa5f3d48f9)
+
 
 
 Staff Page
-![Alt text](<11026494_DCIT_205_IA\Screenshots\Staff page.png>)
+![Staff page](https://github.com/Awurabenatwinkl/11026494_DCIT_205_IA/assets/148399305/6dbfbc02-155a-4cbd-a547-0063f5fdc989)
+
 
 
 Contacts Page
-![Alt text](<11026494_DCIT_205_IA\Screenshots\Contacts page.png>)
+![Contacts page](https://github.com/Awurabenatwinkl/11026494_DCIT_205_IA/assets/148399305/fc726970-6eb7-4223-a6f5-0eef04321175)
+
 
 About Page
-![Alt text](<11026494_DCIT_205_IA\Screenshots\About Page.png>)
+![About Page](https://github.com/Awurabenatwinkl/11026494_DCIT_205_IA/assets/148399305/fdf55e57-c2ef-4911-84d0-19e990249fff)
+
 
 ResearchGroup Page
-![Alt text](<11026494_DCIT_205_IA\Screenshots\ResearchGroup page.png>)
+![ResearchGroup page](https://github.com/Awurabenatwinkl/11026494_DCIT_205_IA/assets/148399305/21218627-532d-40cf-810e-1c247d7da6ba)
+
 
 ## Insights From This Project
 
