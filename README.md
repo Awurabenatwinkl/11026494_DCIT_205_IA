@@ -92,11 +92,14 @@ Open your preferred web browser and go to
 
 
 
-Events.Page
-![Alt text](<11026494_DCIT_205_IA\Screenshots\Events Page.png>)
+Events page
+![Events Page](https://github.com/Awurabenatwinkl/11026494_DCIT_205_IA/assets/148399305/479ed834-049d-45cd-a114-125be7a4a32a)
+
+
 
 Resources Page
-![Alt text](<11026494_DCIT_205_IA\Screenshots\Resources page.png>)
+![Resources page](https://github.com/Awurabenatwinkl/11026494_DCIT_205_IA/assets/148399305/4bcc872d-4b4e-4b1f-878a-febe023ad32d)
+
 
 
 Projects Page
