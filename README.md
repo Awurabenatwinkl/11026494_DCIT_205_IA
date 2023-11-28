@@ -83,10 +83,14 @@ Open your preferred web browser and go to
 ## WEBSITE PREVIEW
 
 ![Homepage](https://github.com/Awurabenatwinkl/11026494_DCIT_205_IA/assets/148399305/9eac2855-6a19-4c4d-86f9-e22836bc1d61)
-![Alt text](<11026494_DCIT_205_IA\Screenshots\Homepage1.png>)
-![Alt text](<11026494_DCIT_205_IA\Screenshots\Homepage2.png>)
+![Homepage1](https://github.com/Awurabenatwinkl/11026494_DCIT_205_IA/assets/148399305/75831a64-68ed-409e-8130-c3f89f48ef88)
+![Homepage2](https://github.com/Awurabenatwinkl/11026494_DCIT_205_IA/assets/148399305/00ac6e9e-eba5-44d2-96ed-233983bf9906)
 
-About Page![Alt texVt](<11026494_DCIT_205_IA\Screenshots\About Page.png>)
+
+![About Page](https://github.com/Awurabenatwinkl/11026494_DCIT_205_IA/assets/148399305/57f4abcd-ce9c-4631-b518-8079caa56e3c)
+
+
+
 
 Events.Page
 ![Alt text](<11026494_DCIT_205_IA\Screenshots\Events Page.png>)
