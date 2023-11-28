@@ -70,7 +70,7 @@ If your project involves React, start the development server with open the index
 Open your preferred web browser and go to
 [Link Text](11026494_DCIT_205_IA/index.html)
      
-![Homepage](https://github.com/Awurabenatwinkl/11026494_DCIT_205_IA/assets/148399305/9eac2855-6a19-4c4d-86f9-e22836bc1d61)
+
 
 ##### The above listed procedures are the steps involved in cloning and setting up a project.
 
@@ -82,7 +82,7 @@ Open your preferred web browser and go to
 
 ## WEBSITE PREVIEW
 
-Home Page![Alt text](<11026494_DCIT_205_IA\Screenshots\Homepage.png>)
+![Homepage](https://github.com/Awurabenatwinkl/11026494_DCIT_205_IA/assets/148399305/9eac2855-6a19-4c4d-86f9-e22836bc1d61)
 ![Alt text](<11026494_DCIT_205_IA\Screenshots\Homepage1.png>)
 ![Alt text](<11026494_DCIT_205_IA\Screenshots\Homepage2.png>)
 
